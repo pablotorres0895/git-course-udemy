@@ -1,0 +1,5 @@
+passwords.txt
+
+#ignorar archivo de extension especificos *.log *.txt
+#carpetas node_modules/
+#excepcion de archivo en carpetas !archivos/lib_*.lib
